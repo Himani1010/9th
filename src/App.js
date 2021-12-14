@@ -8,6 +8,10 @@ var books = {
       rating: "5/5"
     },
     {
+      name: "Eloquent JavaScript",
+      rating: "4/5"
+    },
+    {
       name: "Clean Code in JavaScript ",
       rating: "3.5/5"
     }
@@ -19,6 +23,10 @@ var books = {
       rating: "4/5"
     },
     {
+      name: "Shiva Trilogy",
+      rating: "1/5"
+    },
+    {
       name: " The War of Art",
       rating: "1/5"
     }
@@ -27,6 +35,10 @@ var books = {
     {
       name: "Think and Grow Rich ",
       rating: "5/5"
+    },
+    {
+      name: "Loonshots",
+      rating: "3.5/6"
     },
     {
       name: "The Tatas",
